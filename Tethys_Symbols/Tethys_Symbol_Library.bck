@@ -1,0 +1,122 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10118192-0002LF
+D AMPHENOL ICC (FCI) - 10118192-0002LF - 10118192-0002LF-MICRO USB B-TYPE / Tap/Rl
+F https://componentsearchengine.com/Datasheets/1/10118192-0002LF.pdf
+$ENDCMP
+#
+$CMP 150080GS75000
+D 150080GS75000, Wurth Elektronik WL-SMCW 520 nm Green LED, 2012 (0805) Clear SMD package
+F https://katalog.we-online.com/led/datasheet/150080GS75000.pdf
+$ENDCMP
+#
+$CMP 1727010
+D 2 way vertical screw header,3.81mm pitch Phoenix Contact Non-Fused Terminal Block, 2 Way, Solder Terminals, 30 ??? 16 AWG Through Hole, Nylon, 400 V
+F http://docs-emea.rs-online.com/webdocs/13d6/0900766b813d6966.pdf
+$ENDCMP
+#
+$CMP 1727052
+D PHOENIX CONTACT - 1727052 - TERMINAL BLOCK, WIRE TO BRD, 6POS, 16AWG
+F https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1727052&library=gben&pcck=P-11-01-05&tab=1&selectedCategory=ALL
+$ENDCMP
+#
+$CMP 1727078
+D 3.81mm pitch,vertical mount,PCB,screw terminal,8way
+F https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1727078&library=gben&tab=1
+$ENDCMP
+#
+$CMP 885012007032
+D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 0805 47pF NP00805470J025DFCT10000
+F https://katalog.we-online.com/pbs/datasheet/885012007032.pdf
+$ENDCMP
+#
+$CMP 885012108018
+D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1206 22000000pF X5R1206226M016DFCT10000
+F https://katalog.we-online.com/pbs/datasheet/885012108018.pdf
+$ENDCMP
+#
+$CMP 885012205031
+D Wurth Elektronik 0402 WCAP-CSGP 10nF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10%
+F https://katalog.we-online.com/pbs/datasheet/885012205031.pdf
+$ENDCMP
+#
+$CMP 885012207064
+D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 0805 4700pF X7R0805472K025DFCT10000
+F https://katalog.we-online.com/pbs/datasheet/885012207064.pdf
+$ENDCMP
+#
+$CMP 885012208064
+D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1206 1000000pF X7R1206105K025DFCT10000
+F https://katalog.we-online.com/pbs/datasheet/885012208064.pdf
+$ENDCMP
+#
+$CMP 885012208081
+D Wurth Elektronik 885012208081 10nF Multilayer Ceramic Capacitor MLCC 50V dc +/-10% Tolerance SMD
+F https://katalog.we-online.com/pbs/datasheet/885012208081.pdf
+$ENDCMP
+#
+$CMP 885012209019
+D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 100000pF X7R1210104K025DFCT10000
+F https://katalog.we-online.com/pbs/datasheet/885012209019.pdf
+$ENDCMP
+#
+$CMP ATA6560-GAQW-N
+D Microchip CAN FD Transceiver
+K CAN, Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005991B.pdf
+$ENDCMP
+#
+$CMP Arduino_Nano_v2.x
+D Arduino Nano v2.x
+K Arduino nano microcontroller module USB
+F https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
+$ENDCMP
+#
+$CMP Arduino_Nano_v3.x
+D Arduino Nano v3.x
+K Arduino nano microcontroller module USB
+F http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+$ENDCMP
+#
+$CMP CB3LV-3I-40M000000
+D Oscillator 40MHz, 3.3V
+F https://www.ctscorp.com/wp-content/uploads/2015/11/008-0256-0.pdf
+$ENDCMP
+#
+$CMP CRCW120660R4FKEAHP
+D Thick Film Resistors - SMD 3/4watt 60.4ohms 1% High Power AEC-Q200
+F http://componentsearchengine.com/Datasheets/1/CRCW120660R4FKEAHP.pdf
+$ENDCMP
+#
+$CMP CRGCQ0805F120R
+D CRGCQ 0805 120R 1%
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-3&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP ERJ6GEYJ103V
+D Panasonic ERJ6GE Series Thick Film Surface Mount Fixed Resistor 0805 Case 10k +/-5% 0.125W +/-200ppm/C
+F http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf
+$ENDCMP
+#
+$CMP LM2940IMP-5.0_NOPB
+D Linear Voltage Regulator wide range input and 5V output
+K Linear Voltage Regulator
+F http://www.ti.com/lit/ds/symlink/lm2940-n.pdf
+$ENDCMP
+#
+$CMP MCP2518FDT-E_SL
+D CAN Interface IC Stand-alone Low Power CAN FD Controller w/SPI Interface Grade1
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP2518FD-Data-Sheet-20006027A.pdf
+$ENDCMP
+#
+$CMP MMBZ27VCLT1G
+D ON SEMICONDUCTOR - MMBZ27VCLT1G - DIODE, ZENER, 27V, 0.225W
+F http://www.onsemi.com/pub/Collateral/MMBZ15VDLT1-D.PDF
+$ENDCMP
+#
+$CMP SQM120N02-1M3L_GE3
+D MOSFET 100V 100A 375W AEC-Q101 Qualified
+F http://www.vishay.com/docs/63319/sqm120n02-1m3l.pdf
+$ENDCMP
+#
+#End Doc Library
